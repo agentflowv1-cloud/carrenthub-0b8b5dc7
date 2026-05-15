@@ -1,0 +1,1 @@
+function getContent(page) {if (page === 'about') {return aboutContent;} else if (page === 'contact') {return contactContent;} else {return null;}}
