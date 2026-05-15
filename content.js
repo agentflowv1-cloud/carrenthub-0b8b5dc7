@@ -1,0 +1,1 @@
+const aboutContent = {'title': 'About Us', 'description': 'We are a team of dedicated professionals who are passionate about providing high-quality services.'};const contactContent = {'title': 'Contact Us', 'description': 'Get in touch with us at 123-456-7890 or info@example.com'};
